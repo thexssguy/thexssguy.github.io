@@ -1,0 +1,23 @@
+title: thexssguy
+email: thexssguy@gmail.com
+description: >-
+  I am occasionally a cybersecurity researcher. Usually I write software and
+  publish it under a different name.
+tagline: "Cybersecurity Blog"
+baseurl: "/"
+url: "https://thexssguy.github.io"
+github_username: thexssguy
+
+plugins:
+  - jekyll-feed
+
+theme: minima
+minima:
+  skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/thexssguy" }
+author:
+  name: thexssguy
+  email: "thexssguy@gmail.com"
+
+permalink: /vuln/:slug
