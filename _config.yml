@@ -11,7 +11,7 @@ github_username: thexssguy
 plugins:
   - jekyll-feed
 
-theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
